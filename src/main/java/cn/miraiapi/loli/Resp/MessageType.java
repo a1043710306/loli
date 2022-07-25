@@ -1,7 +1,6 @@
-package com.example.mirarifox.Resp;
+package cn.miraiapi.loli.Resp;
 
 import java.util.List;
-import java.util.Map;
 
 public class MessageType {
     String type,dispaly,name,imageId,url,path,base64,text;

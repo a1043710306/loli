@@ -1,11 +1,9 @@
-package com.example.mirarifox.utils;
+package cn.miraiapi.loli.utils;
 
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.nio.charset.Charset;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 

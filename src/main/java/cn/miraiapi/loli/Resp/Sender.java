@@ -1,4 +1,4 @@
-package com.example.mirarifox.Resp;
+package cn.miraiapi.loli.Resp;
 
 public class Sender {
     String memberName,specialTitle,permission;

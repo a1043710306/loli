@@ -1,6 +1,7 @@
-package com.example.mirarifox.model;
+package cn.miraiapi.loli.model;
 
-import com.example.mirarifox.Resp.MessageType;
+
+import cn.miraiapi.loli.Resp.MessageType;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 /**
   * Copyright 2022 json.cn 
   */
-package com.example.mirarifox.pojo;
+package cn.miraiapi.loli.pojo;
 import java.util.Date;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.mirarifox.pojo;
+package cn.miraiapi.loli.pojo;
 
 public class EpicResp {
     Data data;
